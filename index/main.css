@@ -64,6 +64,10 @@
   line-height:50px;
 }
 
+.news_highlight{
+	color: rgb(200,80,80);
+}
+
 ol{
   list-style-type:none;
   padding: 0px;
